@@ -1,6 +1,6 @@
 {
   "name": "ssr-utils",
-  "version": "0.1.0",
+  "version": "0.1.1-0",
   "main": "dist/index.js",
   "module": "dist/ssr-utils.esm.js",
   "typings": "dist/index.d.ts",
